@@ -1,7 +1,5 @@
-<div style="position: relative;">
-  <img src="https://elements-video-cover-images-0.imgix.net/files/389dcae0-112a-4f78-acaf-08ade13641d1/inline_image_preview.jpg?auto=compress%2Cformat&h=394&w=700&fit=min&s=614b3c4ad66460fd916a25d9b42ce697" alt="Coding" width="100%" style="z-index: 0;">
-  <h1 align="center" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #fff; z-index: 1;">Hi there! 👋 I'm Methusella Nyongesa</h1>
-</div>
+<h1 align="center" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #fff; z-index: 1;">Hi there! 👋 I'm Methusella Nyongesa</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialmnm&label=Profile%20views&color=0e75b6&style=flat" alt="officialmnm" /> </p>
 
