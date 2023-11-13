@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi there! 👋 I'm Methusella Nyongesa</h1>
 <h3 align="center">Web Developer from Kenya</h3>
 <img align="right" src="https://elements-video-cover-images-0.imgix.net/files/389dcae0-112a-4f78-acaf-08ade13641d1/inline_image_preview.jpg?auto=compress%2Cformat&h=394&w=700&fit=min&s=614b3c4ad66460fd916a25d9b42ce697" alt="Coding" width="400">
