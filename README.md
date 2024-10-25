@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **app development and web development**
 
-- 💬 Ask me about **C language**
+- 💬 Willing to collaborate on various projects
 
 - 📫 How to reach me: **methusellanyongesa057@gmail.com**
 
