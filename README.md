@@ -1,13 +1,12 @@
 <h1 align="center" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: #fff; z-index: 1;">Hi there! 👋 I'm Methusella Nyongesa</h1>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialmnm&label=Profile%20views&color=0e75b6&style=flat" alt="officialmnm" /> </p>
 
 - 🌱 Currently learning **app development and web development**
 
 - 💬 Willing to collaborate on various projects
 
-- 📫 How to reach me: **methusellanyongesa057@gmail.com**
+- 📧 How to reach me: **methusellanyongesa057@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,8 +30,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialmnm&show_icons=true&locale=en&layout=compact" alt="officialmnm" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialmnm&layout=compact&langs_count=10&theme=dark" alt="officialmnm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialmnm&show_icons=true&locale=en" alt="officialmnm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialmnm&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="officialmnm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=officialmnm&" alt="officialmnm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=officialmnm&theme=dark" alt="officialmnm" /></p>
