@@ -12,8 +12,7 @@
 <p align="left">
   <a href="https://twitter.com/mnm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mnm" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/methusellanyongesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="methusella nyongesa" height="30" width="40" /></a>
-  <a href="https://instagram.com/methane_254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="methane_254" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/stinger misiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stinger misiko" height="30" width="40" /></a>
+   <a href="https://www.youtube.com/c/stinger misiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="stinger misiko" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/methusella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="methusella" height="30" width="40" /></a>
 </p>
 
